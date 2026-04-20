@@ -1,0 +1,1 @@
+public enum SolutionMode { HIERARCHY, WAITER, MONITOR, TRY_LOCK }

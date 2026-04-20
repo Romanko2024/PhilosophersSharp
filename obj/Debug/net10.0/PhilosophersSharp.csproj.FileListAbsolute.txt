@@ -1,0 +1,14 @@
+C:\Users\Ron\source\repos\PhilosophersSharp\bin\Debug\net10.0\PhilosophersSharp.exe
+C:\Users\Ron\source\repos\PhilosophersSharp\bin\Debug\net10.0\PhilosophersSharp.deps.json
+C:\Users\Ron\source\repos\PhilosophersSharp\bin\Debug\net10.0\PhilosophersSharp.runtimeconfig.json
+C:\Users\Ron\source\repos\PhilosophersSharp\bin\Debug\net10.0\PhilosophersSharp.dll
+C:\Users\Ron\source\repos\PhilosophersSharp\bin\Debug\net10.0\PhilosophersSharp.pdb
+C:\Users\Ron\source\repos\PhilosophersSharp\obj\Debug\net10.0\PhilosophersSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ron\source\repos\PhilosophersSharp\obj\Debug\net10.0\PhilosophersSharp.AssemblyInfoInputs.cache
+C:\Users\Ron\source\repos\PhilosophersSharp\obj\Debug\net10.0\PhilosophersSharp.AssemblyInfo.cs
+C:\Users\Ron\source\repos\PhilosophersSharp\obj\Debug\net10.0\PhilosophersSharp.csproj.CoreCompileInputs.cache
+C:\Users\Ron\source\repos\PhilosophersSharp\obj\Debug\net10.0\PhilosophersSharp.dll
+C:\Users\Ron\source\repos\PhilosophersSharp\obj\Debug\net10.0\refint\PhilosophersSharp.dll
+C:\Users\Ron\source\repos\PhilosophersSharp\obj\Debug\net10.0\PhilosophersSharp.pdb
+C:\Users\Ron\source\repos\PhilosophersSharp\obj\Debug\net10.0\PhilosophersSharp.genruntimeconfig.cache
+C:\Users\Ron\source\repos\PhilosophersSharp\obj\Debug\net10.0\ref\PhilosophersSharp.dll
