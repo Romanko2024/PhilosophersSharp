@@ -18,11 +18,11 @@ public class Table {
     //WAITER
     public void AskWaiter() => waiter.Wait();
     public void ReleaseWaiter() => waiter.Release();
-    //ONITOR
+    //MONITOR
     public void GetBothForks(int left, int right) {
         lock (monitorLock) {
             while (forkInUse[left] || forkInUse[right]) {
-                Monitor.Wait(monitorLock); //як Java wait()
+                Monitor.Wait(monitorLock);
             }
             forkInUse[left] = true;
             forkInUse[right] = true;
@@ -32,7 +32,7 @@ public class Table {
         lock (monitorLock) {
             forkInUse[left] = false;
             forkInUse[right] = false;
-            Monitor.PulseAll(monitorLock); //як Java notifyAll()
+            Monitor.PulseAll(monitorLock);
         }
     }
 }

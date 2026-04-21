@@ -12,7 +12,6 @@ public class Philosopher {
         this.leftFork = (id + 1) % 5;
     }
     public void Start() {
-        // Створюємо потік і запускаємо його
         new Thread(Run).Start();
     }
     private void Run() {

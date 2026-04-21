@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhilosophersSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0c03caf2236561a2584c22415ff86bf34911d98")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhilosophersSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhilosophersSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
